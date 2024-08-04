@@ -2,8 +2,9 @@
  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">,  I'm Diniru Karunarathne</h1>
-<h3 align="center">A Passionate Software Developer from Sri Lanka</h3>
-
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Hello+!;Welcome+To+My+GitHub+Profile+.+.+.;+.+.+.&center=true"></a>  
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinirukarunarathne&label=Profile%20views&color=0e75b6&style=flat" alt="dinirukarunarathne" /> </p>
 
 <br/> <br/>
